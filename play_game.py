@@ -86,16 +86,3 @@ while running:
     pygame.display.update()
 # Quit Pygame
 pygame.quit()
-
-def func(a):
-    print(a)
-
-def func(a, b=""):
-    if not b:
-        print(a)
-    else:
-        print("hi")
-
-func("lol")
-func("lol", 1)
-func()
