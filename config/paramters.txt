@@ -1,0 +1,6 @@
+Inputs -> copter_x, copter_velocity, next_shift, next_hammer_angle, next_location (distance_to_it)
+Outputs -> turn?
+Activation Function -> TanH
+Population Size -> 100
+Fitness_Function -> Distance
+Max_Generations -> 30
